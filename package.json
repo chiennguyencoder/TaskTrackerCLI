@@ -1,0 +1,26 @@
+{
+  "name": "tasktrackercli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "task-cli": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "task",
+    "tracker",
+    "todo"
+  ],
+  "author": "",
+  "license": "ISC",
+  "description": "CLI tool để quản lý tasks",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^14.0.0",
+    "inquirer": "^12.9.0"
+  }
+}
