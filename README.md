@@ -5,6 +5,7 @@ CLI đơn giản để quản lý tasks được viết bằng JavaScript.
 ## Cài đặt
 
 ```bash
+npm clone https://github.com/chiennguyencoder/TaskTrackerCLI.git
 npm install
 ```
 
